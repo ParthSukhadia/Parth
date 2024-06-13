@@ -1,5 +1,5 @@
 
-// import java.util.Arrays;
+
 import java.util.Scanner;
 public class parth { 
     public static void main(String A[]) {
